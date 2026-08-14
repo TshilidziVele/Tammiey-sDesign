@@ -7,20 +7,20 @@
 Established in 2020 in Potchefstroom, South Africa, Tammiey's Design specializes in custom tailoring and alterations. The atelier honors South African textile heritage: Ndebele, Venda, Sotho, and Shweshwe,by weaving cultural significance into every bespoke garment. The founder's vision blends traditional craftsmanship with modern precision, creating pieces that celebrate identity, community, and individuality.
 
 # Goals and Objectives
-# High-Level Goals:
+## High-Level Goals:
 • Increase online visibility and brand awareness
 • Generate consultation bookings and service inquiries
 • Showcase portfolio and customer testimonials
 • Establish authority in bespoke tailoring and cultural craftsmanship
-# Determine and Promote Key Performance Indicators (KPIs):
+## Determine and Promote Key Performance Indicators (KPIs):
 • Website traffic and visitor engagement metrics
 • Consultation form submissions and booking requests
 • Email sign-ups for updates and promotions
 • Social media referrals and click-through rates
 • Average time on site and pages per session
 
-## Current Website Analysis
-# Analysis of the Existing Website:
+# Current Website Analysis
+## Analysis of the Existing Website:
 No formal website currently exists. This project represents the foundational launch of Tammiey's Design's online presence.
 Identify Areas for Improvement (Based on Competitors & Industry Best Practices):
 • Establish a professional, mobile-responsive online storefront
