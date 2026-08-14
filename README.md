@@ -31,10 +31,14 @@ Identify Areas for Improvement (Based on Competitors & Industry Best Practices):
 
 # Timeline and Milestones
 ### Phase	Deliverable	Timeline
-Phase 1: Planning & Setup	Wireframes, sitemap, content gathering, design mockups	Weeks 1–2.
-Phase 2: Development	HTML structure, CSS styling, JavaScript functionality	Weeks 3–5.
-Phase 3: Testing & Optimization	Cross-browser testing, performance optimization, SEO	Week 6.
-Phase 4: Launch & Support	Domain setup, hosting deployment, client handoff	Week 7.
+#### Phase 1: 
+Planning & Setup	Wireframes, sitemap, content gathering, design mockups	Weeks 1–2.
+#### Phase 2: 
+Development	HTML structure, CSS styling, JavaScript functionality	Weeks 3–5.
+#### Phase 3: 
+Testing & Optimization	Cross-browser testing, performance optimization, SEO	Week 6.
+#### Phase 4: 
+Launch & Support	Domain setup, hosting deployment, client handoff	Week 7.
 
 
 # References:
