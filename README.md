@@ -1,7 +1,7 @@
 # Tammiey-sDesign
 ## Tshilidzi Vele Ramukhwatho
 ## WEDE5020
-## ST1010383 
+## ST1050383 
 
 # Brief History of the Organisation:
 Established in 2020 in Potchefstroom, South Africa, Tammiey's Design specializes in custom tailoring and alterations. The atelier honors South African textile heritage: Ndebele, Venda, Sotho, and Shweshwe,by weaving cultural significance into every bespoke garment. The founder's vision blends traditional craftsmanship with modern precision, creating pieces that celebrate identity, community, and individuality.
