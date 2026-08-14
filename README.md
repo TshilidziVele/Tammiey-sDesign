@@ -1,7 +1,7 @@
 # Tammiey-sDesign
 ## Tshilidzi Vele Ramukhwatho
 ### ST1010383
-## References:
+#### References:
 [1] Mozilla Developer Network (MDN), 2026. *HTML: Creating the Content*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content [Accessed 14 August 2026]. 
 [2] Mozilla Developer Network (MDN), 2026. *Responsive Web Design*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design [Accessed 14 August 2026].
 
@@ -15,4 +15,4 @@
 
 [7] Mozilla Developer Network (MDN), 2026. *CSS Media Queries*. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries [Accessed 14 August 2026].
 
-[8] Mozilla Developer Network (MDN), 2026. *Media Query Fundamentals*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries [Accessed 14 August 2026]. **
+[8] Mozilla Developer Network (MDN), 2026. *Media Query Fundamentals*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries [Accessed 14 August 2026].
