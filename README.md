@@ -1,6 +1,27 @@
 # Tammiey-sDesign
 ## Tshilidzi Vele Ramukhwatho
 ### ST1010383
+## Goals and Objectives
+# High-Level Goals:
+• Increase online visibility and brand awareness
+• Generate consultation bookings and service inquiries
+• Showcase portfolio and customer testimonials
+• Establish authority in bespoke tailoring and cultural craftsmanship
+# Determine and Promote Key Performance Indicators (KPIs):
+• Website traffic and visitor engagement metrics
+• Consultation form submissions and booking requests
+• Email sign-ups for updates and promotions
+• Social media referrals and click-through rates
+• Average time on site and pages per session
+
+## Timeline and Milestones
+# Phase	Deliverable	Timeline
+Phase 1: Planning & Setup	Wireframes, sitemap, content gathering, design mockups	Weeks 1–2
+Phase 2: Development	HTML structure, CSS styling, JavaScript functionality	Weeks 3–5
+Phase 3: Testing & Optimization	Cross-browser testing, performance optimization, SEO	Week 6
+Phase 4: Launch & Support	Domain setup, hosting deployment, client handoff	Week 7
+
+
 ## References:
 [1] Mozilla Developer Network (MDN), 2026. *HTML: Creating the Content*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content [Accessed 14 August 2026]. 
 [2] Mozilla Developer Network (MDN), 2026. *Responsive Web Design*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design [Accessed 14 August 2026].
