@@ -2,11 +2,12 @@
 ## Tshilidzi Vele Ramukhwatho
 ## WEDE5020
 ## ST1010383 
-## Brief History of the Organisation:
+
+# Brief History of the Organisation:
 Established in 2020 in Potchefstroom, South Africa, Tammiey's Design specializes in custom tailoring and alterations. The atelier honors South African textile heritage: Ndebele, Venda, Sotho, and Shweshwe,by weaving cultural significance into every bespoke garment. The founder's vision blends traditional craftsmanship with modern precision, creating pieces that celebrate identity, community, and individuality.
 
-## Goals and Objectives
-# High-Level Goals:
+# Goals and Objectives
+### High-Level Goals:
 • Increase online visibility and brand awareness
 • Generate consultation bookings and service inquiries
 • Showcase portfolio and customer testimonials
@@ -18,15 +19,15 @@ Established in 2020 in Potchefstroom, South Africa, Tammiey's Design specializes
 • Social media referrals and click-through rates
 • Average time on site and pages per session
 
-## Timeline and Milestones
-# Phase	Deliverable	Timeline
+# Timeline and Milestones
+### Phase	Deliverable	Timeline
 Phase 1: Planning & Setup	Wireframes, sitemap, content gathering, design mockups	Weeks 1–2.
 Phase 2: Development	HTML structure, CSS styling, JavaScript functionality	Weeks 3–5.
 Phase 3: Testing & Optimization	Cross-browser testing, performance optimization, SEO	Week 6.
 Phase 4: Launch & Support	Domain setup, hosting deployment, client handoff	Week 7.
 
 
-## References:
+# References:
 [1] Mozilla Developer Network (MDN), 2026. *HTML: Creating the Content*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content [Accessed 14 August 2026]. 
 [2] Mozilla Developer Network (MDN), 2026. *Responsive Web Design*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design [Accessed 14 August 2026].
 
