@@ -7,7 +7,7 @@
 Established in 2020 in Potchefstroom, South Africa, Tammiey's Design specializes in custom tailoring and alterations. The atelier honors South African textile heritage: Ndebele, Venda, Sotho, and Shweshwe,by weaving cultural significance into every bespoke garment. The founder's vision blends traditional craftsmanship with modern precision, creating pieces that celebrate identity, community, and individuality.
 
 # Goals and Objectives
-### High-Level Goals:
+# High-Level Goals:
 • Increase online visibility and brand awareness
 • Generate consultation bookings and service inquiries
 • Showcase portfolio and customer testimonials
